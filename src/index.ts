@@ -5,7 +5,7 @@ import mongoose from 'mongoose'
 import router from './routes'
 import bodyParser from 'body-parser'
 
-const MONGO_URL = 'mongodb+srv://SrPimenta:bolinho@cluster0.ooqhv.mongodb.net/?retryWrites=true&w=majority'
+const MONGO_URL = 'mongodb+srv://linklab:linklab@cluster0.ooqhv.mongodb.net/?retryWrites=true&w=majority'
 
 const app = express()
 
